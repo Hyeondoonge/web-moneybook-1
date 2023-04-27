@@ -2,10 +2,6 @@
 <div>2주간 진행된 가계부 서비스 프로젝트입니다.</div>
 <div>프레임워크 없이 vanilla js를 이용해 제작했습니다.</div>
 
-### 💻 [데모](http://3.35.133.95/)
-
-### 📖 [WIKI](https://github.com/woowa-techcamp-2022/web-moneybook-1/wiki)
-
 # 🛠 Tech Stack
 
 <div>
